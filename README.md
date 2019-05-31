@@ -1,8 +1,8 @@
 
-### Scala-Sys-Extras
+### Scala-Extras
 
-[![Build Status](https://travis-ci.org/zeab/scala-sys-extras.svg?branch=master)](https://travis-ci.org/zeab/scala-sys-extras)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f4522b026af44d82b17a773115e3c39f)](https://www.codacy.com/app/zeab/scala-sys-extras?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zeab/scala-sys-extras&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/zeab/scala-extras.svg?branch=master)](https://travis-ci.org/zeab/scala-extras)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/23b2d46830074d47b854207b109d5215)](https://www.codacy.com/app/zeab/scala-extras?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zeab/scala-extras&amp;utm_campaign=Badge_Grade)
 
  Collection of useful extensions and additions to items already in scala.sys
 
