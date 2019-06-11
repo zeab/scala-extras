@@ -1,10 +1,10 @@
 
 ### Scala-Extras
+ Collection of useful extensions and additions to items already in scala.sys
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.zeab/scalaextras_2.12/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.zeab/scalaextras_2.12)
 [![Build Status](https://travis-ci.org/zeab/scala-extras.svg?branch=master)](https://travis-ci.org/zeab/scala-extras)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/23b2d46830074d47b854207b109d5215)](https://www.codacy.com/app/zeab/scala-extras?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zeab/scala-extras&amp;utm_campaign=Badge_Grade)
-
- Collection of useful extensions and additions to items already in scala.sys
 
  Access to threadlocalrandom and a collection of useful generation functions
  Terminal Client

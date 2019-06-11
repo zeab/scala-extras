@@ -8,7 +8,7 @@ import Resolvers.allResolvers
 logLevel := Level.Info
 
 //Add all the command alias's
-CommandAlias.allCommandAlias
+CommandAlias.allPublishAlias
 
 lazy val scalaextras = (project in file("."))
   .settings(rootSettings: _*)
