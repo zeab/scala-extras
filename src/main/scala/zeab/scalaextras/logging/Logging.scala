@@ -35,6 +35,9 @@ trait Logging extends EnvironmentVariables {
   //Log to consume without json wrapping
   val logRaw: Logger = LoggerFactory.getLogger("stdout")
 
+  //Log to udp
+  val udp: Logger = LoggerFactory.getLogger("udp")
+
   def getLogLevel(key:String, default:String): Level =
     getEnvVar(key, default).toUpperCase match {
       case "ERROR" => Level.ERROR
