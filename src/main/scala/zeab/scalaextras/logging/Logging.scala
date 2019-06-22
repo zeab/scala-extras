@@ -49,3 +49,5 @@ trait Logging extends EnvironmentVariables {
     }
 
 }
+
+object Logging extends Logging
