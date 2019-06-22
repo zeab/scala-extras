@@ -7,7 +7,7 @@ object Dependencies {
   val V = new {
     val scalaReflect                = "2.12.6"
     val scalaTest                   = "3.0.5"
-    val logbackJson                 = "5.2"
+    val logbackJson                 = "6.1"
     val logback                     = "1.2.3"
   }
 
