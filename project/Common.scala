@@ -9,7 +9,7 @@ import sbt.librarymanagement.{Developer, ScmInfo}
 object Common {
 
   //Common Settings
-  val useScalaVersion: String = "2.12.6"
+  val useScalaVersion: String = "2.12.8"
   val useOrganization: String = "com.github.zeab"
 
   //Get the current build time since epoch
