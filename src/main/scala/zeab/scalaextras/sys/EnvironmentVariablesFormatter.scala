@@ -9,7 +9,8 @@ import scala.util.{Failure, Success, Try}
   * @author Kevin Kosnik-Downs (Zeab)
   * @since 2.12
   */
-trait EnvironmentVariablesHelpers {
+
+trait EnvironmentVariablesFormatter {
 
   /** Returns either a thing as instance of T or a throwable
     *

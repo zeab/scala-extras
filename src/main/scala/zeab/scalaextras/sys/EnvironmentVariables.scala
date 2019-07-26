@@ -10,7 +10,7 @@ import scala.util.{Failure, Success, Try}
   * @author Kevin Kosnik-Downs (Zeab)
   * @since 2.12
   */
-trait EnvironmentVariables extends EnvironmentVariablesHelpers {
+trait EnvironmentVariables extends EnvironmentVariablesFormatter {
 
   /** Looks for the value of the environment variable specified
     *
